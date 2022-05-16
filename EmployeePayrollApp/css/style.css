@@ -32,12 +32,12 @@ body {
     font: normal normal bold 20px/25px Montserrat;
     font-family: "Montserrat", sans-serif;
     letter-spacing: 0px;
-    color: #230ca7d7;
+    color: #0c28a7e0;
     text-transform: capitalize;
 }
 
 .emp-payroll {
-    color: #44425fe0;
+    color: #46425fc0;
 }
 
 * {
@@ -156,7 +156,7 @@ select {
 
 .submitButton {
     border: none;
-    background-color: #f5f5f5;
+    background-color: #f5f5f5dc;
     margin-right: 30px;
 }
 
